@@ -8,20 +8,20 @@ Link for the content of the certficate: [https://www.coursera.org/professional-c
 
 The courses enlisted in this specialization are as follows:
 
- What is Data Science?
+ # What is Data Science?
 
- Open Source tools for Data Science
+ # Open Source tools for Data Science
 
- Data Science Methodology
+ # Data Science Methodology
 
- Python for Data Science and AI
+ # Python for Data Science and AI
 
- Databases and SQL for Data Science
+ # Databases and SQL for Data Science
 
- Data Analysis with Python
+ # Data Analysis with Python
 
- Data Visualization with Python
+ # Data Visualization with Python
 
- Machine Learning with Python
+ # Machine Learning with Python
 
- Applied Data Science Capstone
+ # Applied Data Science Capstone
